@@ -1,5 +1,5 @@
 # 💫 About Me: I'm Vinay Singh
--🔭 I’m currently working at [Fantiger](https://fantiger.com/)<br><br>- 🌱 I’m currently learning **System Design, Web3, Blockchain**<br><br>- 💬 I can help you with **NodeJs, Angular, MongoDb, MySql, System Design**<br><br>- 📫 Email **vinayksingh2@gmail.com**
+-🔭 I’m currently working at [FanTv](https://fantv.world/)<br><br>- 🌱 I’m currently learning **System Design, Web3, Blockchain**<br><br>- 💬 I can help you with **NodeJs, Angular, MongoDb, MySql, System Design**<br><br>- 📫 Email **vinayksingh2@gmail.com**
 
 
 ## 🌐 Socials:
